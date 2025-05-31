@@ -1,0 +1,5 @@
+com\mycompany\automovil\clases\Carro.class
+com\mycompany\automovil\automovil\enumeracion\Color.class
+com\mycompany\automovil\automovil\enumeracion\tipoAutomovil.class
+com\mycompany\automovil\Automovil.class
+com\mycompany\automovil\automovil\enumeracion\TipoCombustible.class
