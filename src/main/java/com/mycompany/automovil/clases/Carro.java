@@ -159,9 +159,5 @@ public class Carro {
            System.out.println("Color:"+color);
            System.out.println("VelocidadActual:"+velocidadActual);
        }
-     //metodos probrar velocidad en km
-      /* public void probarVelocidad(){
-           System.out.println("velocidad Actual:"+velocidadActual +"km");
-       }
-       */
+    
 }
